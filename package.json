@@ -1,0 +1,17 @@
+{
+  "name": "sedibelo-project",
+  "version": "1.0.0",
+  "description": "API endpoint for Sedibelo project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Clementine Mamogale",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "json2csv": "^6.0.0-alpha.2",
+    "uuid": "^9.0.1"
+  }
+}
